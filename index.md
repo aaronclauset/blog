@@ -11,7 +11,7 @@ The current home for my long-form but non-academic writing. Thoughts about scien
 # Non-periodic Updates:
 
 ## 2020 Year (of COVID) in Review
-```27 Decembr 2020```
+```28 December 2020```
 
 Farewell 2020. [Here's a look back at the year, by the numbers.](2020_YiR)
 

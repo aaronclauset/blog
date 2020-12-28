@@ -2,22 +2,26 @@
 layout: default
 ---
 
-# A new home
-```30 December 2017```
+# Structure + Strangeness
 
-With the closing of my original [*Structure+Strangeness* blog](http://www.cs.unm.edu/~aaron/blog/), this site is a new home for my long-form but non-academic writing. Thoughts about science, academia, networks, peer review, journals, artificial intelligence, complexity, computational social science, computational biology, and far more. *Structure+Strangeness* has always been a place for thinking aloud and a place for storing public artifacts. The name comes from a chapter in the book version of [Douglas Hofstadter's *Metamagical Themas*](https://en.wikipedia.org/wiki/Metamagical_Themas). The book contained a collection of thought provoking ideas that stirred my imagination as a young teenager.
+The current home for my long-form but non-academic writing. Thoughts about science, academia, networks, peer review, journals, artificial intelligence, complexity, computational social science, computational biology, etc. *Structure+Strangeness* has always been a place for thinking aloud and a place for storing public artifacts. The name comes from a chapter in the book version of [Douglas Hofstadter's *Metamagical Themas*](https://en.wikipedia.org/wiki/Metamagical_Themas), which stirred my imagination as a young teenager, and got me excited about complex systems, mathematics, and the mysterious of science. From 2004-2017, I maintained a blog called [*Structure+Strangeness* blog](http://www.cs.unm.edu/~aaron/blog/), which I started as a doctoral student and actively used mainly through my postdoc years.
 
 -----
 
 # Non-periodic Updates:
 
+## 2020 Year (of COVID) in Review
+```27 Decembr 2020```
+
+Farewell 2020. [Here's a look back at the year, by the numbers.](2020_YiR)
+
 ## 2019 Year in Review
-```28 December 2018```
+```28 December 2019```
 
 Another year wrapped up. [Here's a look back at my 2019, by the numbers.](2019_YiR)
 
 ## 2018 Year in Review
-```28 December 2017```
+```28 December 2018```
 
 This is it for the year. [Here's a look back at my 2018, by the numbers.](2018_YiR)
 

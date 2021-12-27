@@ -17,8 +17,11 @@ Goodbye 2021. [Here's a look back at the year, by the numbers.](2021_YiR)
 
 ## Past Years in Review
 [2020, by the numbers.](2020_YiR)
+
 [2019, by the numbers.](2019_YiR)
+
 [2018, by the numbers.](2018_YiR)
+
 [2017, by the numbers.](2017_YiR)
 
 ## Data on Paid Parental Leave Policies

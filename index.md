@@ -10,27 +10,19 @@ The current home for my long-form but non-academic writing. Thoughts about scien
 
 # Non-periodic Updates:
 
-## 2020 Year (of COVID) in Review
-```28 December 2020```
+## 2021 Year (of COVID2) in Review
+```28 December 2021```
 
-Farewell 2020. [Here's a look back at the year, by the numbers.](2020_YiR)
+Goodbye 2021. [Here's a look back at the year, by the numbers.](2021_YiR)
 
-## 2019 Year in Review
-```28 December 2019```
-
-Another year wrapped up. [Here's a look back at my 2019, by the numbers.](2019_YiR)
-
-## 2018 Year in Review
-```28 December 2018```
-
-This is it for the year. [Here's a look back at my 2018, by the numbers.](2018_YiR)
+## Past Years in Review
+[2020, by the numbers.](2020_YiR)
+[2019, by the numbers.](2019_YiR)
+[2018, by the numbers.](2018_YiR)
+[2017, by the numbers.](2017_YiR)
 
 ## Data on Paid Parental Leave Policies
 ```11 April 2018```
 
 We assembled an [open data set of paid parental leave policies](https://aaronclauset.github.io/parental-leave/) for 205 universities in the U.S. and Canada. To facilitate exploration and comparison, we put together a neat interactive visualization, and did a few quick statistical analyses. Joint work with [Allison C. Morgan](https://allisonmorgan.github.io), [Samuel F. Way](http://samfway.com), [Mirta Galesic](https://sites.google.com/site/mirtagalesic/), and [Daniel B. Larremore](https://larremorelab.github.io).
 
-## 2017 Year in Review
-```30 December 2017```
-
-This is it for the year. [Here's a look back at my 2017, by the numbers.](2017_YiR)

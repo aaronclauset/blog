@@ -10,13 +10,13 @@ The current home for my long-form but non-academic writing. Thoughts about scien
 
 # Non-periodic Updates:
 
-## 2021 Year (of COVID2) in Review
+## 2021 Year (2 of COVID) in Review
 ```28 December 2021```
 
 Goodbye 2021. [Here's a look back at the year, by the numbers.](2021_YiR)
 
 ## Past Years in Review
-[2020, by the numbers.](2020_YiR)
+[2020, by the numbers.](2020_YiR) (Year 1 of COVID)
 
 [2019, by the numbers.](2019_YiR)
 

@@ -11,7 +11,7 @@ The current home for my long-form but non-academic writing. Thoughts about scien
 # Non-periodic Updates:
 
 ## 2023 Year in Review
-```29 December 2022```
+```29 December 2023```
 
 Goodbye 2023. [Here's a look back at the year, by the numbers.](2023_YiR)
 

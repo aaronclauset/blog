@@ -10,12 +10,14 @@ The current home for my long-form but non-academic writing. Thoughts about scien
 
 # Non-periodic Updates:
 
-## 2023 Year in Review
-```29 December 2023```
+## 2024 Year in Review
+```29 December 2024```
 
-Goodbye 2023. [Here's a look back at the year, by the numbers.](2023_YiR)
+Goodbye 2024. [Here's a look back at the year, by the numbers.](2024_YiR)
 
 ## Past Years in Review
+[2023, by the numbers.](2023_YiR)
+
 [2022, by the numbers.](2022_YiR) (Year 3 of COVID)
 
 [2021, by the numbers.](2021_YiR) (Year 2 of COVID)
